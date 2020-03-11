@@ -69,21 +69,20 @@ p {
     font-size: 36px;
 }
 
-#search-engine-optimization img, #social-media-marketing img {
-    max-height: 200px;
-    float: left;
-    margin-right: 25px;
-}
-
 #online-reputation-management img { 
     max-height: 200px;
     float: right;
     margin-left: 25px;
 }
 
+.searchmarketing img {
+    max-height: 200px;
+    float: left;
+    margin-right: 25px;
+}
+
 .benefit {
     margin-right: 20px;
-    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
