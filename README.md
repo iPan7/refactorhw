@@ -1,3 +1,17 @@
+# Ian's Solution Methodology/Notes
+
+Changed all <div> tags to semantic tags with a logical order <header>, <nav>, <main>, etc.
+
+Tackled each semantic tagged section as an individual problem set. ie: I worked on the header first, then nav, then main, then footer, etc.
+
+Created a single class for id elements that held identical CSS code, then consolidated all CSS tags into that single new class.
+
+If I came across any strange formatting when I loaded the html into a browser, I reverted to a previous save without broken formatting and tried again to clean the code.
+
+I maintained id tags to retain/enable nav button functionality.
+
+IMPORTANT NOTE: CSS Parameters were never modified. Only consolidated into a new class tag or id tag. I found that class and id tag placement while in the HTML file was more conduc
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
