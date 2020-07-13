@@ -14,7 +14,7 @@ IMPORTANT NOTE: CSS Parameters were never modified. Only consolidated into a new
 
 Link to live website: https://ipan7.github.io/refactorhw/
 
-<img src="assets/images/refactorscreenshot" />
+<img src="assets/images/refactorscreenshot.png" />
 
 # 01 HTML CSS Git: Code Refactor
 
