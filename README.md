@@ -12,7 +12,7 @@ I maintained id tags to retain/enable nav button functionality.
 
 IMPORTANT NOTE: CSS Parameters were never modified. Only consolidated into a new class tag or id tag. I found that class and id tag placement while in the HTML file was more conductive to success in this assignment.
 
-Link to live website: git@github.com:iPan7/refactorhw.git
+Link to live website: https://ipan7.github.io/refactorhw/
 
 # 01 HTML CSS Git: Code Refactor
 
