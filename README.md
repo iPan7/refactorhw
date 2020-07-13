@@ -12,6 +12,8 @@ I maintained id tags to retain/enable nav button functionality.
 
 IMPORTANT NOTE: CSS Parameters were never modified. Only consolidated into a new class tag or id tag. I found that class and id tag placement while in the HTML file was more conductive to success in this assignment.
 
+Link to live website: git@github.com:iPan7/refactorhw.git
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
